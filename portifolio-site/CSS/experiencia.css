@@ -6,7 +6,6 @@
   grid-template-columns: 1fr 2fr;
   gap: 100px;
 }
-
 .experiencia .subtitulo {
   color: #e0e0e0;
 }
@@ -96,7 +95,7 @@
 }
 
 @media (max-width: 400px) {
-.empresa {
-  grid-template-columns: 1fr;
-}
+  .empresa {
+    grid-template-columns: 1fr;
+  }
 }
