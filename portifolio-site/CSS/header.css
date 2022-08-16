@@ -22,5 +22,8 @@
 }
 
 @media (max-widht: 800px) {
-  .header;
+  .header {
+    flex-direction: column;
+    gap: 40px;
+  }
 }
