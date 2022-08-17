@@ -129,11 +129,11 @@
   .formacao .subtitulo {
     color: #ffffff;
   }
-.formacao-texto {
-  font-size: 1.125rem;
-}
-.formacao-extra h3::before {
-  position: initial;
-  margin-top: 10px;
-}
+  .formacao-texto {
+    font-size: 1.125rem;
+  }
+  .formacao-extra h3::before {
+    position: initial;
+    margin-top: 10px;
+  }
 }
